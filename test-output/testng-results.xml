@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-31T21:58:33 IST" name="Suite" finished-at="2024-08-31T21:58:55 IST" duration-ms="21813">
+  <suite started-at="2024-08-31T20:29:50 IST" name="Suite" finished-at="2024-08-31T20:30:13 IST" duration-ms="22565">
     <groups>
     </groups>
-    <test started-at="2024-08-31T21:58:33 IST" name="Test" finished-at="2024-08-31T21:58:55 IST" duration-ms="21813">
+    <test started-at="2024-08-31T20:29:50 IST" name="Test" finished-at="2024-08-31T20:30:13 IST" duration-ms="22565">
       <class name="practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T21:58:34 IST" name="launchApplication" finished-at="2024-08-31T21:58:43 IST" duration-ms="9718" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T20:29:51 IST" name="launchApplication" finished-at="2024-08-31T20:30:03 IST" duration-ms="11863" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="purchaseProduct(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T21:58:43 IST" name="purchaseProduct" data-provider="getTestData" finished-at="2024-08-31T21:58:49 IST" duration-ms="5231" status="PASS">
+        <test-method signature="purchaseProduct(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T20:30:03 IST" name="purchaseProduct" data-provider="getTestData" finished-at="2024-08-31T20:30:07 IST" duration-ms="4546" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,22 +20,22 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@41fed14f]]>
+                <![CDATA[org.testng.TestRunner@3968bc60]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- purchaseProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T21:58:49 IST" name="tearDown" finished-at="2024-08-31T21:58:49 IST" duration-ms="721" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T20:30:07 IST" name="tearDown" finished-at="2024-08-31T20:30:08 IST" duration-ms="344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T21:58:49 IST" name="launchApplication" finished-at="2024-08-31T21:58:53 IST" duration-ms="3667" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T20:30:08 IST" name="launchApplication" finished-at="2024-08-31T20:30:11 IST" duration-ms="3593" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="verifyOrderHistory(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T21:58:53 IST" name="verifyOrderHistory" data-provider="getTestData" finished-at="2024-08-31T21:58:54 IST" duration-ms="1486" status="PASS">
+        <test-method signature="verifyOrderHistory(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T20:30:11 IST" name="verifyOrderHistory" data-provider="getTestData" finished-at="2024-08-31T20:30:13 IST" duration-ms="1451" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,14 +44,14 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@41fed14f]]>
+                <![CDATA[org.testng.TestRunner@3968bc60]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyOrderHistory -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T21:58:54 IST" name="tearDown" finished-at="2024-08-31T21:58:55 IST" duration-ms="427" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practiceautomation.shoppingApplication.Ecommerce_application_purchase_product_Test@6cc4cdb9]" started-at="2024-08-31T20:30:13 IST" name="tearDown" finished-at="2024-08-31T20:30:13 IST" duration-ms="279" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

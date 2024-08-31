@@ -28,6 +28,7 @@ public class OrderDetailPage extends ReuseableComponents{
 			orderedProductName.isDisplayed();
 			String orderedDate = driver.findElement(By.xpath("(//th[contains(text(),'"+orderNumber+"')]/../td)[4]")).getText();
 			String CurrentDate = new SimpleDateFormat("EEE MMM dd").format(new Date());
+			System.out.println(CurrentDate);
 			orderedDate.equalsIgnoreCase(CurrentDate);		
 			return true;
 		}
