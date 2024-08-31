@@ -33,7 +33,6 @@ public class PlacedOrderPage extends ReuseableComponents{
 		waitForElementToAppear(orderSuccessMessage);
 		String orderNumber = orderID.getText();
 		orderNumber = orderNumber.split(" ")[1];
-		System.out.println(orderNumber);
 		return orderNumber;		
 		
 	}
